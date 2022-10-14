@@ -4,6 +4,7 @@ import os
 from torch.utils.data import Dataset, DataLoader
 import torchvision.transforms as transforms
 import torch
+import torchvision.datasets.caltech
 
 
 class tiny_caltech35(Dataset):

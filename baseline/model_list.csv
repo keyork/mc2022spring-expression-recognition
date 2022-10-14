@@ -1,0 +1,8 @@
+model name,test acc,learning rate,epoch,batch size,is scheduler,scheduler method
+./model_20220510-22-03-34.pth,"tensor(0.3304, device='cuda:0')",0.01,30,64,True,"MultiStepLR: milestone[20, 25]"
+./model_20220510-22-04-04.pth,"tensor(0.5368, device='cuda:0')",0.1,30,64,True,"MultiStepLR: milestone[20, 25]"
+./model_20220510-22-04-24.pth,"tensor(0.1336, device='cuda:0')",1.0,30,64,True,"MultiStepLR: milestone[20, 25]"
+./model_20220510-22-08-30.pth,"tensor(0.2455, device='cuda:0')",0.001,30,64,True,"MultiStepLR: milestone[20, 25]"
+./model_20220510-22-08-57.pth,"tensor(0.5130, device='cuda:0')",0.1,30,128,True,"MultiStepLR: milestone[20, 25]"
+./model_20220510-22-08-46.pth,"tensor(0.5197, device='cuda:0')",0.1,30,32,True,"MultiStepLR: milestone[20, 25]"
+./model_20220510-22-12-11.pth,"tensor(0.3961, device='cuda:0')",0.1,30,256,True,"MultiStepLR: milestone[20, 25]"

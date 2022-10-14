@@ -1,25 +1,7 @@
-# MC2022Spring-ExpressionRecognition
+# mc2022spring-expression-recognition
 
 Deep Learning Project in Course: MC2022Spring(Media and Cognition 2022 Spring)
 
-## TO-DO List
+直接看[report](./report/report.md)吧
 
-- [ ] run baseline
-  - [ ] baseline acc
-  - [ ] understand code
-- [ ] analyze the results of the baseline model
-  - [ ] loss and acc curve
-  - [ ] hyperparameters' effect
-  - [ ] feature distribution of samples
-- [ ] improve model
-  - [ ] data
-  - [ ] network structure
-  - [ ] loss function
-  - [ ] training methods
-  - [ ] SNN
-  - [ ] meta-learning
-- [ ] report
-  - [ ] expriments results
-
-## 1 Introduction
-
+也有[slide](./slide.pdf)
